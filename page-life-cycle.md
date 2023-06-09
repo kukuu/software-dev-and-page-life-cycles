@@ -1,4 +1,4 @@
-# Page Life Cycle - Client Server Handshaking.
+# Page Life Cycle - Client Server Hand Shaking
 
 - Page Request
 - Page Initialisation
