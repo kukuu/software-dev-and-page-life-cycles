@@ -1,6 +1,7 @@
 # Page Life Cycle - Client Server Hand Shaking
 
 - Page Request
+- Page Start
 - Page Initialisation
 - Validation
 - Page load
