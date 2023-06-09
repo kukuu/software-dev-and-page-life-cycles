@@ -14,15 +14,17 @@ There are following  phases in every Software development life cycle model:
 
 3. Design
 
-4. Implementation or coding
+4. Planning
 
-5. Testing
+5. Implementation or coding
 
-6. Deployment
+6. Testing
 
-7. Maintenance / After care support
+7. Deployment
 
-8. Continuous Improvement
+8. Maintenance / After care support
+
+9. Continuous Improvement
 
 ```
 
