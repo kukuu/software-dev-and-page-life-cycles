@@ -38,7 +38,7 @@ Rendering occurs before all the response information is sent to the USER. It als
 
 ### Page Unload
 Unload phase helps to:
-- Clean all the unwanted information
+- Clean all unwanted information
 - Cleans the memory once page is sent to the USER.
 
 ## Related Articles
