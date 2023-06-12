@@ -6,7 +6,7 @@
 - Page load
 - Validation
 - Event Trigers/Handling
-- Rndering
+- Rendering
 - Unload
 
 ## What they mean
